@@ -1,0 +1,33 @@
+{
+  "name": "node_web",
+  "description": "http / https framework.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kaija Chang",
+    "email": "kaija.chang@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Kaija Chang",
+      "email": "kaija.chang@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "dotenv": "*",
+    "express": "*",
+    "express-session": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "method-override": "*",
+    "winston": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaija/node_web"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  }
+}
